@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DreamySand</h1>
-<h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
+<h3 align="center">A passionate Programmer from Indonesia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;PHP+%7C+Laravel+%7C+JavaScript+%7C+Flutter;Cyber+Security+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
@@ -39,12 +39,12 @@
 ---
 
 ### 📫 Reach me at:
-- 💼 [LinkedIn](https://linkedin.com/in/namakamu)
-- 📧 Email: kamu@email.com
-- 🌐 [My Portfolio Website](https://namakamu.dev)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/dean-satrio-arung-gesang-5640781b5/])
+- 📧 Email: deansatrio.ag@email.com
+- 🌐 [My Portfolio Website](https://dreamysand.my.id)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=namakamu&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dreamysand&style=flat-square&color=blue" alt="Profile views" />
 </p>
