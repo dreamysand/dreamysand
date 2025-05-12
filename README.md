@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
+<h1 align="center">Hi 👋, I'm DreamySand</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;PHP+%7C+Laravel+%7C+JavaScript+%7C+Flutter;Cyber+Security+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **[Project Apotek Sri](#)**  
-- 🌱 I’m currently learning **Laravel Livewire, Flutter, and AI Integration**  
+- 🔭 I’m currently working on **[Project Kasir](#)**  
+- 🌱 I’m currently learning **Laravel Brreze, Flutter, and Python**  
 - 👯 I’m looking to collaborate on **open source healthcare or education systems**  
-- 💬 Ask me about **PHP, Laravel, Tailwind CSS, Flutter, Cyber Security**  
+- 💬 Ask me about **PHP, Laravel, Tailwind CSS, Flutter, Cyber Security, Web Dev**  
 - ⚡ Fun fact: I’m secretly a dragon tamer 🐉
 
 ---
@@ -29,11 +29,11 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dreamysand&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namakamu&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamysand&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamysand&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
