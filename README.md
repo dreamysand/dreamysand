@@ -10,7 +10,7 @@
         <p><em>"Waga na wa Megumin! Ākuwizādo wo nariwai toshi, saikyou no kougeki no mahou "bakuretsu mahou" wo ayatsuru mono!"</em></p>
       </blockquote>
       <br/>
-      <b>DreamySand</b> — <code>Megumin</code>
+      <b>My Bini Gweh</b> — <code>Megumin</code>
     </td>
   </tr>
 </table>
