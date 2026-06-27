@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td width="220" align="center" valign="middle">
-      <img src="./MBG.png" width="200" alt="DreamySand Wizard" />
+    <td width="300" align="center" valign="middle">
+      <img src="./MBG.png" width="270" alt="DreamySand Wizard" />
     </td>
     <td valign="top" style="padding-left: 12px;">
       <blockquote>
