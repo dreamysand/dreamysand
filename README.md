@@ -1,6 +1,19 @@
 <div align="center">
 
-![DreamySand Banner](./banner.gif)
+<table>
+  <tr>
+    <td width="220" align="center" valign="middle">
+      <img src="./MBG.png" width="200" alt="DreamySand Wizard" />
+    </td>
+    <td valign="top" style="padding-left: 12px;">
+      <blockquote>
+        <p><em>"Waga na wa Megumin! Ākuwizādo wo nariwai toshi, saikyou no kougeki no mahou "bakuretsu mahou" wo ayatsuru mono!"</em></p>
+      </blockquote>
+      <br/>
+      <b>DreamySand</b> — <code>Megumin</code>
+    </td>
+  </tr>
+</table>
 
 </div>
 
