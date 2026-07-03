@@ -33,9 +33,6 @@
   ░                                                   ░
   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=B47EFF&center=true&vCenter=true&width=520&lines=Casting+spells+in+PHP+%26+Laravel...;Taming+dragons+with+Flutter...;Brewing+potions+of+clean+code...;Defending+the+realm+with+CyberSec...)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -71,11 +68,11 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dreamysand&show_icons=true&theme=midnight-purple&hide_border=true&title_color=b47eff&icon_color=b47eff&text_color=c8aaff&bg_color=0a0a14)](https://github.com/dreamysand)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dreamysand&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/dreamysand)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dreamysand&theme=midnight-purple&hide_border=true&ring=b47eff&fire=ff8c42&currStreakLabel=b47eff&background=0a0a14)](https://github.com/dreamysand)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dreamysand&theme=radical&short_numbers=true)](https://github.com/dreamysand)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamysand&layout=compact&theme=midnight-purple&hide_border=true&title_color=b47eff&text_color=c8aaff&bg_color=0a0a14)](https://github.com/dreamysand)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=dreamysand&layout=compact&langs_count=10&theme=radical)](https://github.com/dreamysand)
 
 </div>
 
