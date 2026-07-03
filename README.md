@@ -80,6 +80,20 @@
 
 ---
 
+## 💳 Credit
+
+<div align="left">
+
+Github Stats: https://github.com/stats-organization/github-stats-extended
+
+Github Streak: https://github.com/denvercoder1/github-readme-streak-stats
+
+KonoSuba GIF: https://tenor.com/view/konosuba-dance-song-party-hard-gif-11590850
+
+</div>
+
+---
+
 ## 🔮 Summon Me
 
 <div align="center">
