@@ -20,19 +20,9 @@
 ---
 
 <div align="center">
+  
+![DREAMYSAND](./dreamysand_explosion_banner.gif)
 
-```
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  ░                                                   ░
-  ░   CLASS  ──  Full-Stack Sorcerer                  ░
-  ░   ORIGIN ──  Indonesia 🇮🇩                         ░
-  ░   LEVEL  ──  ∞  (still grinding)                  ░
-  ░                                                   ░
-  ░   HP    ████████████████████  999 / 999            ░
-  ░   MANA  ███████████████░░░░░  750 / 1000           ░
-  ░                                                   ░
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
 </div>
 
 ---
@@ -107,5 +97,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dreamysand&style=flat-square&color=b47eff&label=adventurers+visited)
 
 *"Every bug is a monster waiting to be slain."*
+
+</div>
+
+<div align="center">
+
+![Konosuba-GIF](https://media1.tenor.com/m/z6wV52qRqiEAAAAd/konosuba-dance.gif)
 
 </div>
