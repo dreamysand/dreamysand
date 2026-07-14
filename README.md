@@ -54,20 +54,6 @@
 
 ---
 
-## 🏆 Battle Records
-
-<div align="center">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dreamysand&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/dreamysand)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dreamysand&theme=radical&short_numbers=true)](https://github.com/dreamysand)
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=dreamysand&layout=compact&langs_count=10&theme=radical)](https://github.com/dreamysand)
-
-</div>
-
----
-
 ## ⚡ Challenge the Sorcerer
 
 <div align="center">
