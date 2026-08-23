@@ -109,7 +109,7 @@ KonoSuba GIF: https://tenor.com/view/konosuba-dance-song-party-hard-gif-11590850
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dean_Satrio-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-satrio-arung-gesang-5640781b5/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dreamysand-portfolio.vercel.app-b47eff?style=flat-square&logo=firefox&logoColor=white)](https://dreamysand-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dreamysand-b47eff?style=flat-square&logo=firefox&logoColor=white)](https://dreamysand-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-deansatrio.ag@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deansatrio.ag@email.com)
 
 </div>
