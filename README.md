@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![DREAMYSAND](./dreamysand_explosion_banner.gif)
+![DREAMYSAND](./banner-git.png)
 
 </div>
 
