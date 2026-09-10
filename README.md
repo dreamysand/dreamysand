@@ -80,18 +80,6 @@
 
 ---
 
-## ⚡ Challenge the Sorcerer
-
-<div align="center">
-
-*A turn-based browser game. Can you defeat DreamySand?*
-
-**[→ ENTER THE BATTLE ARENA](https://dreamysand.my.id/battle)**
-
-</div>
-
----
-
 ## 💳 Credit
 
 <div align="left">
