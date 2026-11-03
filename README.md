@@ -63,7 +63,7 @@
 
 ---
 
-## 📌 Currently
+## Currently
 
 ```text
 Mahasiswa RPL @ ITS
