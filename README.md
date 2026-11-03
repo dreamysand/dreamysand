@@ -24,7 +24,7 @@
 
 ---
 
-## ⚔️ Tech Stack
+## Tech Stack
 
 ### Frontend & Frameworks
 
@@ -75,7 +75,7 @@ Lagi nganggur cik
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Lagi nganggur cik
 
 ---
 
-## 🔗 Find Me
+## Find Me
 
 <div align="center">
 
@@ -97,20 +97,12 @@ Lagi nganggur cik
 
 ---
 
-## 📚 Credits
+## Credits
 
 * GitHub Streak — [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 * KonoSuba GIF — [Tenor](https://tenor.com/view/konosuba-dance-song-party-hard-gif-11590850)
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dreamysand\&style=flat-square\&color=b47eff\&label=adventurers+visited)
-
-*Every bug is a monster waiting to be slain.*
-
-</div>
 
 <div align="center">
 
